@@ -43,6 +43,8 @@ INSTALLED_APPS = [
     "personnel",
     # third part
     "django_restframework",
+    "drf-yasg",
+    "debug_toolbar",
 ]
 
 MIDDLEWARE = [
